@@ -84,6 +84,7 @@ void konversiWaktu(int totalDetik ) {
   cout << jam << " Jam :"; 
   cout << menit << " Menit : ";
   cout << detik << " Detik \n";
+  
 }
 
 void menuMaMi() {
